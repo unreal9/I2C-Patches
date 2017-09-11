@@ -1,0 +1,3 @@
+NullPatch.txt
+
+DSDT Patches for I2C
