@@ -1,5 +1,4 @@
 # INT3442 (I2C0) Controller Patch for VoodooI2C on Skylake
-# Written and maintained by Alexandre Daoud
 
 into_all scope label _SB.PCI0.I2C0 name_adr 0x00150000 remove_entry;
 into_all scope label _SB.PCI0.I2C0 name_hid INT3442 remove_entry;
