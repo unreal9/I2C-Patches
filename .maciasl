@@ -5,3 +5,9 @@
 [Synaptics] INT3443	Skylake/INT3443.txt
 [Synaptics] INT3444	Skylake/INT3444.txt
 [Synaptics] INT3445	Skylake/INT3445.txt
+[Win for I2C] --> Win for I2C	NullPatch.txt
+[Win for I2C] Win 7	Haswell-Broadwell/Windows_7.txt
+[Win for I2C] Win 8	Haswell-Broadwell/Windows_8.txt
+[Win for I2C] Win 8.1	Haswell-Broadwell/Windows_8.1.txt
+[Win for I2C] Win 10	Haswell-Broadwell/Windows_10.txt
+
