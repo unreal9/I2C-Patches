@@ -1,5 +1,5 @@
-[ELAN] --> ELAN NullPatch.txt
-[ELAN] --> ELAN1200 ELAN/ELAN1200.txtt
+[ELAN] --> ELAN	NullPatch.txt
+[ELAN] --> ELAN1200	ELAN/ELAN1200.txtt
 [Synaptics] --> Synaptics	NullPatch.txt
 [Synaptics] INT3442	Skylake/INT3442.txt
 [Synaptics] INT3443	Skylake/INT3443.txt
